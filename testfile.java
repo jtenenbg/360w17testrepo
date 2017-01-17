@@ -1,1 +1,1 @@
-/* TCSS 360 rocks! */
+/* TCSS 360 students are git masters! */
