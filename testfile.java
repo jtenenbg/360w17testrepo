@@ -1,5 +1,6 @@
-Group 4 rocks!
-/* Group 3 rocks! */
-/* Group 4 rocks! */
-/* Group 1 rocks! */
-/* Group 1 rocks! */
+“Group 2 rocks!”
+/* TCSS 360 rocks! */
+/* Group 1 rocks!  */
+=======
+/* TCSS 360 students are git masters! */
+>>>>>>> changed first line of testfile.java
