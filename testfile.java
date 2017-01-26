@@ -1,2 +1,1 @@
-/* TCSS 360 rocks! */
-/* Group 1 rocks!  */
+Group 2 rocks!
